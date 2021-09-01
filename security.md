@@ -30,3 +30,7 @@ Time: 71.543 sec (1 m 11 s)
 Start Date: 2021:09:01 12:27:57
 End Date:   2021:09:01 12:29:09
 ```
+
+##### nessus essentials
+安装，使用rpm
+
